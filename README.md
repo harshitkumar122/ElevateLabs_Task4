@@ -12,7 +12,7 @@ Conditional filtering using WHERE
 
 Multi-table joins for relational analysis
 
-🧰 Tools Used
+🧰 Tools Used :
 MySQL Workbench
 
 📦 Deliverables
